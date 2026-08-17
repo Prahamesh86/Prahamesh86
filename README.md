@@ -16,7 +16,7 @@
 
 📊 I work with **SQL, Python, Excel and Power BI** to clean, analyze, visualize and transform data into meaningful business insights.
 
-🤖 I'm also exploring **Machine Learning, Generative AI, LLMs, RAG and modern data technologies** to build smarter and more impactful solutions.
+🤖 I'm also exploring ** Generative AI, LLMs, RAG and modern data technologies** to build smarter and more impactful solutions.
 
 🎯 My goal is to solve real-world problems by combining **Data + Technology + Business Understanding**.
 
@@ -258,7 +258,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </a>
 
-<a href="mailto:pprathamesh062@gmail.com">
+<a href="mailto:prathamesh@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
