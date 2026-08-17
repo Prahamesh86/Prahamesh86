@@ -3,7 +3,9 @@
 ### 📊 Data Analyst | 💡 Data Analytics | 🤖 AI/ML Enthusiast
 
 🎓 B.Sc. Computer Science Graduate
+
 📍 India | 🚀 Building Data-Driven Solutions
+
 💻 Turning Data into Insights & Insights into Decisions
 
 ---
@@ -227,14 +229,23 @@
 ## 📜 Certifications & Learning
 
 **🐍 Data Analysis Using Python — IBM**
+
 **🐍 Python for Data Science — IBM**
+
 **🤖 Data Science & Artificial Intelligence — NSDC**
+
 **🧠 Machine Learning with Python — IBM**
+
 **📊 Data Analytics Virtual Experience — Deloitte Forage**
+
 **🤖 Data Science and Analytics with Artificial Intelligence — IBM**
+
 **💼 Business Strategy Experience — Tata Group Forage**
+
 **🐍 Python Essential for Data Science / Machine Learning**
+
 **🗄️ SQL | Power BI**
+
 **📈 Tableau | Advanced Excel**
 
 ---
@@ -247,11 +258,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pprathamesh062@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://github.com/Prahamesh86">
 <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
