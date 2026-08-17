@@ -169,21 +169,16 @@
 
 ## 🧠 Currently Exploring
 
-🤖 **Artificial Intelligence**
+## 🔭 Currently Exploring
 
-✨ **Generative AI**
-
-🧠 **Machine Learning**
-
-🔗 **APIs & LLMs**
-
+🤖 **Generative AI**
+🧠 **Large Language Models (LLMs)**
 📚 **Retrieval-Augmented Generation (RAG)**
-
+🔗 **APIs & AI Applications**
+⚙️ **ETL & Data Pipelines**
 ☁️ **Cloud Technologies**
+🗄️ **Data Engineering Fundamentals**
 
-🏗️ **Data Engineering Fundamentals**
-
-🔄 **ETL & Data Pipelines**
 
 ---
 
@@ -219,15 +214,16 @@
 
 ## 📜 Certifications & Learning
 
-🏅 **Advanced Excel**
-
-💻 **IBM Cognitive Class**
-
-🏢 **Deloitte Virtual Experience Program**
-
-🏢 **Tata Group Virtual Experience Program**
-
-🤖 **Data Science with AI & ML — IT Vedant**
+**🐍 Data Analysis Using Python — IBM**
+**🐍 Python for Data Science — IBM**
+**🤖 Data Science & Artificial Intelligence — NSDC**
+**🧠 Machine Learning with Python — IBM**
+**📊 Data Analytics Virtual Experience — Deloitte Forage**
+**🤖 Data Science and Analytics with Artificial Intelligence — IBM**
+**💼 Business Strategy Experience — Tata Group Forage**
+**🐍 Python Essential for Data Science / Machine Learning**
+**🗄️ SQL | Power BI**
+**📈 Tableau | Advanced Excel**
 
 ---
 
@@ -268,7 +264,7 @@
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://www.linkedin.com/in/prathamesh-sonawane-data-analytics"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
