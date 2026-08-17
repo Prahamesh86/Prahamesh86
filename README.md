@@ -172,11 +172,17 @@
 ## 🔭 Currently Exploring
 
 🤖 **Generative AI**
+          
 🧠 **Large Language Models (LLMs)**
+
 📚 **Retrieval-Augmented Generation (RAG)**
+
 🔗 **APIs & AI Applications**
+
 ⚙️ **ETL & Data Pipelines**
+
 ☁️ **Cloud Technologies**
+
 🗄️ **Data Engineering Fundamentals**
 
 
@@ -185,11 +191,17 @@
 ## 💡 Areas of Interest
 
 📊 Data Analytics
+
 📈 Business Intelligence
+
 🧠 Machine Learning
+
 🤖 Artificial Intelligence
+
 ✨ Generative AI
+
 🗄️ Data Engineering
+
 ☁️ Cloud & Modern Data Technologies
 
 ---
@@ -227,44 +239,12 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://www.linkedin.com/in/prathamesh-sonawane-data-analytics"/>
+<a href="https://www.linkedin.com/in/prathamesh-sonawane-data-analytics"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
