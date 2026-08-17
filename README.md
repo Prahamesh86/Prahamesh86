@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Prathamesh Sonawane
 
-![Uploading ChatGPT Image Aug 17, 2026, 05_18_31 PM.png…]()
-
 
 
 ### 📊 Data Analyst | 💡 Data Analytics | 🤖 AI/ML Enthusiast
