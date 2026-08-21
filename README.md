@@ -1,6 +1,9 @@
 # 👋 Hey, I'm Prathamesh Sonawane
 
 
+<img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2026, 05_18_31 PM" src="https://github.com/user-attachments/assets/946d057d-64ea-4b85-baad-a8e0ddb0b69c" />
+
+
 
 ### 📊 Data Analyst | 💡 Data Analytics | 🤖 AI/ML Enthusiast
 
